@@ -5,6 +5,11 @@
     <meta charset="utf-8" />
   </head>
   <body>
-    <h1>Patrick Blanchard<h1>
+    <ul>
+      <li>Glenview, IL 60026<li>
+        <li>224-704-2111<li>
+          <li>pblanchard@hawk.iit.edu<li>
+            <ul>
+              
   </body>
 <html>
